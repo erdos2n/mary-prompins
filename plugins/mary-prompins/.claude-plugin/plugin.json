@@ -1,0 +1,8 @@
+{
+  "name": "mary-prompins",
+  "version": "0.1.0",
+  "description": "Clean up a Claude Project: checkup, slim instructions, build a lookup doc, and discover missing skills.",
+  "author": {
+    "name": "Rafael Carrasco"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "prompins",
+  "description": "Mary Prompins — a practically perfect skill for tidying messy Claude Projects.",
+  "owner": {
+    "name": "Rafael Carrasco"
+  },
+  "plugins": [
+    {
+      "name": "mary-prompins",
+      "source": "./plugins/mary-prompins",
+      "description": "Clean up a Claude Project: checkup, slim instructions, build a lookup doc, and discover missing skills."
+    }
+  ]
+}
