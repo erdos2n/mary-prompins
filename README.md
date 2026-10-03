@@ -44,4 +44,4 @@ Full list: [PROMPTS.md](PROMPTS.md)
 
 Mary Prompins is free. If she saved you a headache and you'd like to say thanks, a tip is always appreciated — never expected.
 
-☂️ **Venmo:** [@rafa2](https://venmo.com/u/rafa2)
+☂️ **Venmo:** [@rafa2](https://venmo.com/code?user_id=2129500326330368350)
