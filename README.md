@@ -42,4 +42,6 @@ Full list: [PROMPTS.md](PROMPTS.md)
 
 ## Support
 
-Free to use. If it saved you a headache, you can tip on Gumroad *(link coming)*.
+Mary Prompins is free. If she saved you a headache and you'd like to say thanks, a tip is always appreciated — never expected.
+
+☂️ **Venmo:** [@rafa2](https://venmo.com/u/rafa2)
