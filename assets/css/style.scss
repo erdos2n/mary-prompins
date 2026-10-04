@@ -4,23 +4,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap');
 @import "{{ site.theme }}";
 
-/* Mary Prompins — warm earth palette */
+/* Mary Prompins — governess palette: navy coat, cherry red, ivory, dusty pink */
 :root {
-  --paper: #F7F2E7;
-  --cream: #ECE3D0;
-  --bone:  #DDD0B6;
-  --sand:  #C2AE8A;
-  --stone: #8C7E67;
-  --bark:  #5A4B3B;
-  --ink:   #2E261E;
-  --olive: #6F7A3C;
-  --moss:  #4A6B4F;
-  --clay:  #B66A3E;
+  --ivory:  #FBF6EC;
+  --linen:  #F1E7D6;
+  --rule:   #E3D6C2;
+  --navy:   #1F2A44;
+  --slate:  #3A4256;
+  --muted:  #7A7F8C;
+  --cherry: #A8323E;
+  --sky:    #4A6FA5;
+  --rose:   #D1B5CA;
 }
 
 body {
-  background: var(--paper);
-  color: var(--bark);
+  background: var(--ivory);
+  color: var(--slate);
   font-family: 'Inter', system-ui, sans-serif;
   font-size: 16px;
   line-height: 1.6;
@@ -28,45 +27,45 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Fraunces', 'Iowan Old Style', Georgia, serif;
-  color: var(--ink);
+  color: var(--navy);
 }
 
 h1 { font-size: 2.2rem; }
-h2 { border-bottom: 1px solid var(--bone); padding-bottom: 0.3em; }
+h2 { border-bottom: 2px solid var(--rose); padding-bottom: 0.3em; }
 
-a, a:visited { color: var(--olive); font-weight: 600; }
-a:hover { color: var(--moss); }
+a, a:visited { color: var(--cherry); font-weight: 600; }
+a:hover { color: var(--sky); }
 
-header p, footer, small { color: var(--stone); }
+header p, footer, small { color: var(--muted); }
 
-strong { color: var(--ink); }
+strong { color: var(--navy); }
 
 code, pre {
   font-family: 'JetBrains Mono', ui-monospace, monospace;
-  background: var(--cream);
-  color: var(--ink);
-  border: 1px solid var(--bone);
+  background: var(--linen);
+  color: var(--navy);
+  border: 1px solid var(--rule);
   border-radius: 6px;
 }
-pre { padding: 12px 14px; overflow-x: auto; }
+pre { padding: 12px 14px; overflow-x: auto; white-space: pre-wrap; word-break: break-word; }
 pre code { border: none; background: none; }
 
 table { border-collapse: collapse; width: 100%; }
-th { background: var(--cream); color: var(--ink); }
-th, td { border: 1px solid var(--bone); padding: 8px 10px; }
+th { background: var(--linen); color: var(--navy); }
+th, td { border: 1px solid var(--rule); padding: 8px 10px; }
 
 blockquote {
-  background: var(--cream);
-  border-left: 4px solid var(--olive);
-  color: var(--bark);
+  background: var(--linen);
+  border-left: 4px solid var(--rose);
+  color: var(--slate);
   padding: 8px 14px;
   border-radius: 0 6px 6px 0;
 }
 
-hr { border: none; border-top: 1px solid var(--bone); }
+hr { border: none; border-top: 1px solid var(--rule); }
 
 header ul li a, header ul a {
-  background: var(--olive);
-  color: var(--paper);
-  border-color: var(--olive);
+  background: var(--navy);
+  color: var(--ivory);
+  border-color: var(--navy);
 }

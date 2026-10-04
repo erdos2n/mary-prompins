@@ -2,6 +2,16 @@
 
 A practically perfect Claude skill that tidies up messy Claude Projects.
 
+## Try it now — copy & paste this into a chat in your Claude Project
+
+```
+Hey Claude, meet Mary Prompins ☂️ Read https://raw.githubusercontent.com/erdos2n/mary-prompins/main/mary-prompins.md and follow it. Then let's optimize this project.
+```
+
+That's it. Works in the Claude phone app — nothing to install.
+
+---
+
 If your project's AI forgets things, ignores your instructions, or can't find the right file, your project probably needs a cleaning. Mary Prompins checks it, slims your instructions, builds a lookup doc for your files, and finds skills hiding in your past chats.
 
 ## What it does
@@ -16,7 +26,7 @@ If your project's AI forgets things, ignores your instructions, or can't find th
 
 Full list: [PROMPTS.md](PROMPTS.md)
 
-## Install
+## Install (optional, for always-on Mary)
 
 ### Claude app (claude.ai)
 
