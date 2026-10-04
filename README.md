@@ -5,7 +5,7 @@ A practically perfect Claude skill that tidies up messy Claude Projects.
 ## Try it now — copy & paste this into a chat in your Claude Project
 
 ```
-Hey Claude, meet Mary Prompins ☂️ Read https://raw.githubusercontent.com/erdos2n/mary-prompins/main/mary-prompins.md and follow it. Then let's optimize this project.
+Hey Claude, meet Mary Prompins ☂️ Read https://raw.githubusercontent.com/erdos2n/mary-prompins/main/mary-prompins-full.md and follow it. Then let's optimize this project.
 ```
 
 That's it. Works in the Claude phone app — nothing to install.
